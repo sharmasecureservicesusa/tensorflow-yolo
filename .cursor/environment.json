@@ -1,0 +1,5 @@
+{
+  "name": "tensorflow-yolo (Python 2.7 + TensorFlow 1.15)",
+  "user": "ubuntu",
+  "install": "bash .cursor/install.sh"
+}
